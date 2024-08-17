@@ -17,8 +17,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mohammad-nasrat-a10a86189" target="_blank">Linkedin</a>
-<a href="https://t.me/@nasrat97" target="_blank">Telegram</a>
+<a href="https://linkedin.com/in/mohammad-nasrat-a10a86189" target = "_blank">Linkedin</a>
+<a href="https://t.me/@nasrat97" target = "_blank">Telegram</a>
 
 
 ### 🛠 &nbsp;Tech Stack
